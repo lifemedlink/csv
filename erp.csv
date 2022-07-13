@@ -1,2 +1,2 @@
 "device_id","tank_pressure","line_pressure","gas_level","gas_detector","meter1","meter2","meter3","meter4","log_time","solenoid","power_level","customer_name","device_location","gas_leak","low_gas","coordinates"
-"BG00000000","1.381","2.215","3.043","1.200","0010476","0010476","0010476","0010475","2022-07-13 18:09:44","00000000","0","admin@gmail.com","cv raman nagar","0","0","12.98041268921753,77.65422774013672"
+"BG00000000","1.388","2.225","3.058","1.210","0012386","0012386","0012386","0012385","2022-07-13 18:19:44","00000000","0","admin@gmail.com","cv raman nagar","0","0","12.98041268921753,77.65422774013672"
